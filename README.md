@@ -3,7 +3,7 @@
  **Lab 2** [click here](#lab-2)
 
 
-## Lab 1 
+# Lab 1 
 `prosti upiti` `✅ completed`
 
 > zadaci za samostalni rad
@@ -56,7 +56,7 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 <br>
 
 ## Lab 2
-`slzeni upiti` `⚠️ not completed`
+`slozeni upiti` `⚠️ not completed`
 
 
 > zadaci za samostalni rad
