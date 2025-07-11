@@ -1,7 +1,7 @@
 **Sadrzaj**
 > **Lab 1** -> [click here](#lab-1)
  <br><br>
- **Lab 2** [click here](#lab-2)
+ **Lab 2** -> [click here](#lab-2)
 
 <br>
 <hr>
