@@ -53,3 +53,19 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 ```
 
 </details>
+
+<br>
+<hr>
+<br>
+
+# Lab 2 - <mark> slozeni upiti </mark>
+
+<details>
+
+<summary> zadaci za samostalni rad </summary>
+
+```sql
+-- 1. zadatak
+```
+
+</details>
