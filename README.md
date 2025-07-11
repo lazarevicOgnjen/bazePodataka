@@ -1,7 +1,7 @@
 **Sadržaj**
-> **Lab 1** <tab> 🔗 [click here](#lab-1)
+> **Lab 1** <t> 🔗 [click here](#lab-1)
  <br><br>
- **Lab 2** <tab> 🔗 [click here](#lab-2)
+ **Lab 2** <t> 🔗 [click here](#lab-2)
 
 <br>
 <hr>
