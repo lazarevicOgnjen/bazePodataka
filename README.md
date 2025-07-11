@@ -1,4 +1,5 @@
-# Lab 1 - prosti upiti ```dif  + finished```
+# Lab 1 - prosti upiti ```dif  
++ finished```
 
 
 <details> 
