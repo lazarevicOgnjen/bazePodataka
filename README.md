@@ -24,11 +24,18 @@ FROM GLUMAC
 WHERE GODINA_ROD > 1920;
 ```
 
-```
+```sql
 -- 3. zadatak
 SELECT GLUMAC
 FROM IGRA
 WHERE FILM BETWEEN 85 AND 91;
+```
+
+```sql
+-- 4. zadatak
+SELECT BROJ, NASLOV
+FROM FILM
+WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0);
 ```
 
 </details>
