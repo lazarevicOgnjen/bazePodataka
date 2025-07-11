@@ -56,7 +56,7 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 <hr>
 <br>
 
-# Lab 2 - slozeni upiti
+# Lab 2
 
 `⚠️ not completed`
 
