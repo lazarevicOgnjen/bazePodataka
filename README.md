@@ -24,4 +24,11 @@ FROM GLUMAC
 WHERE GODINA_ROD > 1920;
 ```
 
+```
+-- 3. zadatak
+SELECT GLUMAC
+FROM IGRA
+WHERE FILM BETWEEN 85 AND 91;
+```
+
 </details>
