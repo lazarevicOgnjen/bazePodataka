@@ -1,6 +1,6 @@
 # Lab 1 - prosti upiti 
 
-**`✅ completed'**
+**`✅ completed`**
 
 <details> 
 <summary> zadaci za samostalni rad </summary> 
