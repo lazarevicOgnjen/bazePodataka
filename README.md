@@ -1,7 +1,7 @@
 # Lab 1 - prosti upiti 
 
 ```dif  
-+ finished
+ + finished
 ```
 
 
