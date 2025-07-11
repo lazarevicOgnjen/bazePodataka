@@ -3,9 +3,7 @@
 
 
 ## Lab 1 
-`prosti upiti`
-
-`✅ completed`
+`prosti upiti` `✅ completed`
 
 > zadaci za samostalni rad
 
