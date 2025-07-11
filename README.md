@@ -7,5 +7,9 @@ II godina
 
 # Lab 1 - <mark> prosti upiti <mark>
 
-> <details> <summary> zadaci za samostalni rad </summary> 
+> <details> 
+<summary> zadaci za samostalni rad </summary> 
+```sql 
+// 1 zadatak
+```
 </details>
