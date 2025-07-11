@@ -7,4 +7,4 @@ II godina
 
 # Lab 1 - **prosti upiti**
 
->> zadaci za samostalni rad
+> zadaci za samostalni rad
