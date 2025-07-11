@@ -38,4 +38,11 @@ FROM FILM
 WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0);
 ```
 
+```sql
+-- 5. zadatak
+SELECT COUNT(*)
+FROM IZNAJMLJIVANJE
+WHERE CLAN = 3;
+```
+
 </details>
