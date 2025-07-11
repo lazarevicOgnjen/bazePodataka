@@ -1,5 +1,5 @@
 **Sadrzaj**
-> **Lab 1** [click here](#lab-1)
+> **Lab 1** -> [click here](#lab-1)
  <br><br>
  **Lab 2** [click here](#lab-2)
 
