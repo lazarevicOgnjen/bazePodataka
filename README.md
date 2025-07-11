@@ -2,7 +2,7 @@
 II godina
 
 <br>
-___
+<hr>
 
 # Lab 1 - <mark> prosti upiti <mark>
 
