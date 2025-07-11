@@ -10,6 +10,6 @@ II godina
 > <details> 
 <summary> zadaci za samostalni rad </summary> 
 ```sql 
-// 1 zadatak
+-- 1 zadatak
 ```
 </details>
