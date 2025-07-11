@@ -18,9 +18,10 @@ WHERE BROJ = 50;
 ```
 
 ```sql
--- 1. zadatak
-SELECT IME, PREZIME, GODINA_ROD, MESTO_ROD
+-- 2. zadatak
+SELECT IME, PREZIME
 FROM GLUMAC
-WHERE BROJ = 50;
+WHERE GODINA_ROD > 1920;
 ```
+
 </details>
