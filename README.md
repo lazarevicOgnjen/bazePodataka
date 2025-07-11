@@ -1,5 +1,5 @@
-[Lab 1](lab-1) '✅completed'
-[Lab 2](lab-2) '⚠️ incomplete'
+[Lab 1](lab-1) ` ✅completed `
+[Lab 2](lab-2) `⚠️ incomplete`
 
 
 # Lab 1
