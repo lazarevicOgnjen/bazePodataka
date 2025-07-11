@@ -1,5 +1,9 @@
 # Lab 1 - prosti upiti 
 
+```diff
++ uradjeni svi zadaci
+```
+
 <details> 
 <summary> zadaci za samostalni rad </summary> 
 
@@ -52,6 +56,10 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 <br>
 
 # Lab 2 - slozeni upiti
+
+```diff
+- nisu uradjeni svi zadaci
+```
 
 <details>
 
