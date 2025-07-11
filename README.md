@@ -1,5 +1,5 @@
-**Sadrzaj**
-> **Lab 1** -> [click here](#lab-1)
+**Sadržaj**
+> **Lab 1** --> [click here](#lab-1)
  <br><br>
  **Lab 2** --> [click here](#lab-2)
 
@@ -60,7 +60,7 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 <br>
 
 # Lab 2
-`slozeni upiti` `⚠️ not completed`
+`složeni upiti` `⚠️ not completed`
 
 
 > zadaci za samostalni rad
