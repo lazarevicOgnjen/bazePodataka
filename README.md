@@ -2,8 +2,7 @@
 
 `✅ completed`
 
-<details> 
-<summary> zadaci za samostalni rad </summary> 
+> zadaci za samostalni rad
 
 ```sql 
 -- 1. zadatak
@@ -47,7 +46,6 @@ FROM FILM
 WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(NASLOV) NOT LIKE '%uncle%' AND GODINA > 1970;
 ```
 
-</details>
 
 <br>
 <hr>
@@ -57,9 +55,8 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 
 `⚠️ not completed`
 
-<details>
 
-<summary> zadaci za samostalni rad </summary>
+> zadaci za samostalni rad
 
 ```sql
 -- 1. zadatak
@@ -75,5 +72,3 @@ INNER JOIN IGRA ON FIM.BROJ = IGRA.FILM
 INNER JOIN GLUMAC ON GLUMAC.BROJ = IGRA.GLUMAC
 WHERE REZISER.IME = 'Emir' AND REZISER.PREZIME = 'Kusturica' AND GLUMAC.IME NOT LIKE 'Mira' AND GLUMAC.PREZIME NOT LIKE 'Banjac';
 ```
-
-</details>
