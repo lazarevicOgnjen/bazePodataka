@@ -1,4 +1,4 @@
-# Lab 1 - prosti upiti
+# Lab 1 - prosti upiti ``` + finished```
 
 <details> 
 <summary> zadaci za samostalni rad </summary> 
