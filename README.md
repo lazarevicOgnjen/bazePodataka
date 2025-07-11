@@ -2,8 +2,7 @@
 [Lab 2](lab-2) `⚠️ incomplete`
 
 
-## Lab 1
-'prosti upiti'
+## Lab 1 `prosti upiti`
 
 `✅ completed`
 
