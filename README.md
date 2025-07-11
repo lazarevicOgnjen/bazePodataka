@@ -1,10 +1,5 @@
 # Lab 1 - prosti upiti 
 
-```diff
-+ finished
-```
-
-
 <details> 
 <summary> zadaci za samostalni rad </summary> 
 
