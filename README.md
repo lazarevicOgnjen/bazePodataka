@@ -1,8 +1,6 @@
 # Lab 1 - prosti upiti 
 
-```diff
-! uradjeni svi zadaci
-```
+`diff ! uradjeni svi zadaci`
 
 <details> 
 <summary> zadaci za samostalni rad </summary> 
