@@ -7,10 +7,4 @@ II godina
 
 # Lab 1 - <mark> prosti upiti <mark>
 
-> <details>
-
-<summary> zadaci za samostalni rad </summary>
-
-> 1 zadatak 
-
-</details>
+> <details> <summary> zadaci za samostalni rad </summary> > 1 zadatak  </details>
