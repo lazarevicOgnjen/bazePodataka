@@ -2,6 +2,7 @@
  <br><br>
  **Lab 2** [click here](#lab-2)
 
+<hr>
 
 # Lab 1 
 `prosti upiti` `✅ completed`
@@ -55,7 +56,7 @@ WHERE TIP = 'comedy' AND (AA_NAGRADE IS NOT NULL AND AA_NAGRADE > 0) AND LOWER(N
 <hr>
 <br>
 
-## Lab 2
+# Lab 2
 `slozeni upiti` `⚠️ not completed`
 
 
