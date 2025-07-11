@@ -1,3 +1,6 @@
+[Lab 1 '✅completed'](Lab-1---prosti-upiti)
+
+
 # Lab 1 - prosti upiti 
 
 `✅ completed`
