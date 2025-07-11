@@ -1,6 +1,6 @@
 # Lab 1 - prosti upiti 
 
-```
+```diff
 - finished
 ```
 
