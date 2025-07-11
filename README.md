@@ -9,6 +9,7 @@ II godina
 
 <details> 
 <summary> zadaci za samostalni rad </summary> 
+
 ```sql 
 -- 1. zadatak
 SELECT IME, PREZIME, GODINA_ROD, MESTO_ROD
